@@ -1,1 +1,1 @@
-# Awesome-YKS-TYT-AYT-
+# Awesome YKS (TYT/AYT)
