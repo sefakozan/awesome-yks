@@ -4,7 +4,6 @@ YKS sınavına hazırlanan öğrenciler için YouTube kanal öneri listesi.
 GitHub Markdown öğrenmek için yapıldı.
 
 **MATEMATİK:** 
-*** TYT ***
 + [Hocalara Geldik](https://www.youtube.com/channel/UCBcM2J8SHyq8GUSvrhWnwTg)
 + [Şenol Hoca](https://www.youtube.com/user/theSenolhoca)
 + [Ekol Hoca](https://www.youtube.com/channel/UCFImwG14UKp7uoj9IXwExbQ)
