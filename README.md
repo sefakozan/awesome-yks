@@ -1,6 +1,7 @@
 # Awesome YKS (TYT/AYT)
 ## YKS (TYT/AYT) YouTube Kanal Önerileri
 YKS sınavına hazırlanan öğrenciler için YouTube kanal öneri listesi.
+GitHub Markdown öğrenmek için yapıldı.
 
 **MATEMATİK:** 
 *** TYT ***
